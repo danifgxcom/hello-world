@@ -1,4 +1,5 @@
 # hello-world
 This is my first GitHub project
 
-Please do not read me!
+It was really weird to have to modify master...
+Now this makes sense.
